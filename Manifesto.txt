@@ -1,0 +1,58 @@
+Satellite_ver1.2.1
+„   Help.html
+„   icon.ico
+„   icon.o
+„   icon.rc
+„   Makefile
+„   Manifesto.txt
+„   Readme.txt
+„   Satellite.c
+„   Satellite.exe
+„   Satellite.o
+„   
+„¥„Ÿ.vscode
+„       settings.json
+„       
+„¤„Ÿimages
+    „   bg.png
+    „   ov.png
+    „   
+    „¥„Ÿfonts
+    „       100.png
+    „       101.png
+    „       104.png
+    „       105.png
+    „       108.png
+    „       110.png
+    „       111.png
+    „       114.png
+    „       115.png
+    „       116.png
+    „       117.png
+    „       121.png
+    „       47.png
+    „       48.png
+    „       49.png
+    „       50.png
+    „       51.png
+    „       52.png
+    „       53.png
+    „       54.png
+    „       55.png
+    „       56.png
+    „       57.png
+    „       58.png
+    „       67.png
+    „       70.png
+    „       77.png
+    „       83.png
+    „       84.png
+    „       87.png
+    „       97.png
+    „       
+    „¤„Ÿring
+            ri0.png
+            ri1.png
+            ri2.png
+            ri3.png
+            
