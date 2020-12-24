@@ -9,7 +9,7 @@
 ###### 概要 ######
 
   【 名前 】 Satellite - A Simplified Clock
-  【 制作者 】 長野高専電子情報工学科4年 岡田隼飛 (17405)
+  【 制作者 】 岡田隼飛
   【 開発環境 】 cygwin ver.3.0.7-1 | gcc ver.7.4.0 | GNU make ver.4.2.1
   【 動作環境 】 Windows10 ver.1909 (OS Build : 18363.1198)
   【 バージョン 】 ver.1.2.1
